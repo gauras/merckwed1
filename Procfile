@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* merckwedcls
+web:    java -cp target/classes:target/dependency/* merckwed1.merckwedcls
